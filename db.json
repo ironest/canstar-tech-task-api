@@ -29,26 +29,6 @@
     {	"id": "27",	"city": "Melton",	"population": 65423,	"state": "VIC"	},
     {	"id": "28",	"city": "Wagga Wagga",	"population": 56181,	"state": "NSW"	},
     {	"id": "29",	"city": "Hervey Bay",	"population": 53492,	"state": "QLD"	},
-    {	"id": "30",	"city": "Mildura",	"population": 51473,	"state": "VIC"	},
-    {	"id": "31",	"city": "Shepparton",	"population": 51142,	"state": "VIC"	},
-    {	"id": "32",	"city": "Port Macquarie",	"population": 46948,	"state": "NSW"	},
-    {	"id": "33",	"city": "Gladstone",	"population": 44984,	"state": "QLD"	},
-    {	"id": "34",	"city": "Tamworth",	"population": 42347,	"state": "NSW"	},
-    {	"id": "35",	"city": "Traralgon",	"population": 41626,	"state": "VIC"	},
-    {	"id": "36",	"city": "Orange",	"population": 40079,	"state": "NSW"	},
-    {	"id": "37",	"city": "Bowral",	"population": 39300,	"state": "NSW"	},
-    {	"id": "38",	"city": "Busselton",	"population": 38289,	"state": "WA"	},
-    {	"id": "39",	"city": "Geraldton",	"population": 37931,	"state": "WA"	},
-    {	"id": "40",	"city": "Dubbo",	"population": 37666,	"state": "NSW"	},
-    {	"id": "41",	"city": "Nowra",	"population": 37027,	"state": "NSW"	},
-    {	"id": "42",	"city": "Warragul",	"population": 36538,	"state": "VIC"	},
-    {	"id": "43",	"city": "Bathurst",	"population": 36448,	"state": "NSW"	},
-    {	"id": "44",	"city": "Warrnambool",	"population": 34912,	"state": "VIC"	},
-    {	"id": "45",	"city": "Albany",	"population": 34151,	"state": "WA"	},
-    {	"id": "46",	"city": "Kalgoorlie",	"population": 30541,	"state": "WA"	},
-    {	"id": "47",	"city": "Devonport",	"population": 30153,	"state": "TAS"	},
-    {	"id": "48",	"city": "Mount Gambier",	"population": 29472,	"state": "SA"	},
-    {	"id": "49",	"city": "Lismore",	"population": 28764,	"state": "NSW"	},
-    {	"id": "50",	"city": "Nelson Bay",	"population": 27606,	"state": "NSW"	}
+    {	"id": "30",	"city": "Mildura",	"population": 51473,	"state": "VIC"	}
   ]
 }
