@@ -49,6 +49,6 @@
     {	"id": "47",	"city": "Devonport",	"population": 30153,	"state": "TAS"	},
     {	"id": "48",	"city": "Mount Gambier",	"population": 29472,	"state": "SA"	},
     {	"id": "49",	"city": "Lismore",	"population": 28764,	"state": "NSW"	},
-    {	"id": "50",	"city": "Nelson Bay",	"population": 27606,	"state": "NSW"	},
+    {	"id": "50",	"city": "Nelson Bay",	"population": 27606,	"state": "NSW"	}
   ]
 }
